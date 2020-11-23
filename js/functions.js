@@ -124,7 +124,7 @@ function showMessages() {
 function adjustWordsPosition() {
 	$('#words').css("position", "absolute");
 	$('#words').css("top", 200);
-	$('#words').css("left", "22%");
+	$('#words').css("left", "24%");
 }
 
 function adjustCodePosition() {
